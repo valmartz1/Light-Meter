@@ -1,5 +1,5 @@
 # Light-Meter
-### Made by Valeria Martinez
+### Made by Valeria Martinez - A00372453
 Light meter laboratory made for the EcoApps class. 
 
 
