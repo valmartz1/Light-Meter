@@ -1,4 +1,4 @@
-// C++ code
+//  Light Meter - made by Valeria Martinez
 //
 
 int pinLDR = A3;
